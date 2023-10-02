@@ -1,0 +1,6 @@
+Daftar makanan favorit 
+  1. Mie ayam
+  2. Es Campur 
+  3. Batagor
+  4. Mie baso
+  5. Indomie
